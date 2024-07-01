@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+form{
+    display: flex;
+    flex-direction: column;    
+    width: 270px;
+    background-color: rgba(0, 0, 0, 0.084);
+}
+div{
+    margin-top: 15px;
+}
+input{
+    float: right;
+}
+div#button{
+    display: flex;    
+    justify-content: center;   
+    margin-bottom: 15px;
+}
